@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-l3bb33.indowin.cfd/sitemap.xml
